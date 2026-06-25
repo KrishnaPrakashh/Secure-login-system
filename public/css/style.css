@@ -1,0 +1,41 @@
+body{
+  background:#f5f7fa;
+}
+
+.navbar{
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.main-card{
+  margin-top:80px;
+  border:none;
+  border-radius:20px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.1);
+}
+
+.feature-box{
+  background:white;
+  padding:15px;
+  border-radius:12px;
+  margin-bottom:12px;
+}
+
+.btn{
+  border-radius:10px;
+}
+
+.auth-card{
+  max-width:500px;
+  margin:auto;
+  margin-top:80px;
+  border:none;
+  border-radius:20px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.1);
+}
+
+footer{
+  margin-top:60px;
+  text-align:center;
+  padding:20px;
+  color:gray;
+}
